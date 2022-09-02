@@ -1,8 +1,4 @@
 # Приложение Chat
-[![Build Status](https://travis-ci.org/svedentsov/job4j_weather.svg?branch=master)](https://travis-ci.org/svedentsov/job4j_weather)
-[![codecov](https://codecov.io/gh/svedentsov/job4j_weather/branch/master/graph/badge.svg)](https://codecov.io/gh/svedentsov/job4j_weather)
-![GitHub repo size](https://img.shields.io/github/repo-size/svedentsov/job4j_weather)
-
 Веб приложение для отображения информации о прогнозе погоды.
 Работает в режиме реактивного программирования.
 Для упрощения понимания, данные хранятся в классе WeatherService.
